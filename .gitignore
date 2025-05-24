@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment & Virtual Environment
+.env
+venv/
+ENV/
+env/
+.venv
+.venv/
+env.bak/
+venv.bak/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.ropeproject/
+.project
+.pydevproject
+.settings/
+
+# Application logs & generated files
+logs/
+*.log
+static/screenshots/
+
+# Cached data
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Playwright browser data
+browser_contexts/
+.playwright/
+playwright-report/
